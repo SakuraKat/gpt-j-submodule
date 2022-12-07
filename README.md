@@ -1,1 +1,1 @@
-# gpt-j-submodule
+# GPT-J Submodule
